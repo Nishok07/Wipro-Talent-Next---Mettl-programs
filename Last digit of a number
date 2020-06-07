@@ -1,0 +1,6 @@
+class lastDigit{
+      public static void main(String[]args){
+              int num;
+              return num % 10;
+     }
+}
